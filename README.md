@@ -1,10 +1,10 @@
-# Survey form with React
+# 2020 Survey 
 
-Technigo Project using React and practicing State. Survey including Dropdown and Radio forms.
+Take a survey on one of the biggest topics in 2020!
 
-## The problem
+## Technology
 
-Started with creating the various components, then compiling them into one file (App.js) and last styling, and making the site responsive. 
+JavaScript using forms, and styling in CSS in React.
 
 ## View it live
 
